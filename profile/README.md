@@ -1,5 +1,5 @@
 
-![We are SkyOps](skyops.png)
+<img src="skyops.png" width=10% height=10%>
 
 ## Hi there 👋
 🙋‍♀️ We are __SkyOps__ ☁️ Cloud and DevOps services & AWS security expert
